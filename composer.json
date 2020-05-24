@@ -1,0 +1,14 @@
+{
+    "name": "giumast/auth-php",
+    "description": "Simple authentication scenarios with PHP",
+    "type": "project",
+    "require": {
+        "spomky-labs/otphp": "^10.0"
+    },
+    "authors": [
+        {
+            "name": "Giuseppe Mastrandrea",
+            "email": "info@giumast.com"
+        }
+    ]
+}
